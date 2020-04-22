@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Anisha Ganguly"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g.
   bio              : "Deep Learning and Introduction to CNN portfolio."
   location         : "Boston,MA"
   email            :
@@ -104,7 +104,7 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://linkedin.com/in/anisha-ganguly"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,10 +113,11 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/anishagan26"
+      url: "https://github.com/anishagan26"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
