@@ -97,7 +97,7 @@ author:
   avatar           : "/images/me.jpg" # path of avatar image, e.g.
   bio              : "Deep Learning and Introduction to CNN portfolio."
   location         : "Boston,MA"
-  email            :
+  email            : "anishag2695@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
