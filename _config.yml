@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Anisha Ganguly"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g.
+  avatar           : "/images/me.jpg" # path of avatar image, e.g.
   bio              : "Deep Learning and Introduction to CNN portfolio."
   location         : "Boston,MA"
   email            :
